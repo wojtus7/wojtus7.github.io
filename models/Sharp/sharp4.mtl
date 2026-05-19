@@ -1,0 +1,8 @@
+# picocad material
+newmtl sharp4_mtl
+ka 1.000000 1.000000 1.000000
+kd 1.000000 1.000000 1.000000
+ks 0.000000 0.000000 0.000000
+illum 1
+ns 0.000000
+map_kd sharp4_tex.png
